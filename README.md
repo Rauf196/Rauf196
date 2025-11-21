@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Rauf196
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Ethical Hacking
+
 
 
 <!---
